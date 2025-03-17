@@ -1,4 +1,4 @@
-![Imagem da Aplicação](assets/printscreendoprojeto.png)
+![Imagem da Aplicação](assets/screenshotdoprojeto.png)
 
 # Amigo Secreto
 
