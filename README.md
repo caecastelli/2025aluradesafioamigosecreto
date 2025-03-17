@@ -22,7 +22,7 @@ A aplicação foi construída usando HTML, CSS e JavaScript. A funcionalidade pr
 
 ## Demonstração
 
-Você pode acessar o projeto pelo link: https://amigo-secreto-alura-one-self.vercel.app/
+Você pode acessar o projeto pelo link: https://2025aluradesafioamigosecreto.vercel.app/
 
 
 ## Feedback
