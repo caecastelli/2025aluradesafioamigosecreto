@@ -2,15 +2,15 @@
 
 # Amigo Secreto
 
-**Amigo Secreto** é uma aplicação web que permite que os usuários adicionem nomes em uma lista e de forma aletória selecionar um "amigo secreto" da lista.
+**Amigo Secreto** é uma aplicação web onde os usuários podem adicionar nomes a uma lista e, de maneira aleatória, sortear um "amigo secreto" entre os participantes.
 
 
 
 ## Funcionalidades
 
-- Adicionar nomes na lista
-- Selecionar um "amigo secreto" de forma aleatória da lista
-- Exibir o nome do amigo selecionado
+- Adicionar nomes dos participantes do Amigo Secreto na lista
+- Sortear e escolher um "amigo secreto" de forma aleatória da lista
+- Exibir o nome selecionado do amigo
 
 ## Stack utilizada
 
@@ -22,10 +22,10 @@ A aplicação foi construída usando HTML, CSS e JavaScript. A funcionalidade pr
 
 ## Demonstração
 
-Você pode acessar o projeto pelo link: https://2025aluradesafioamigosecreto.vercel.app/
+Acesso ao projeto pela URL (link): https://2025aluradesafioamigosecreto.vercel.app/
 
 
-## Feedback
+## Feedbacks
 
-Feedbacks são sempre bem-vindos, por favor, fique a vontade para me dar um retorno.
+Por favor, sinta-se a vontade para fornecer sugestões de melhorias ao código fonte.
 
